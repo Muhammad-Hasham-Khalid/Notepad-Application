@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>C:/Users/Hp/Downloads/deletered.png</file>
+        <file>C:/Users/Hp/Downloads/document_open.png</file>
+        <file>C:/Users/Hp/Downloads/new_file.png</file>
+        <file>C:/Users/Hp/Downloads/paste.png</file>
+        <file>C:/Users/Hp/Downloads/copy.png</file>
+        <file>C:/Users/Hp/Downloads/undo.png</file>
+        <file>C:/Users/Hp/Downloads/redo.png</file>
+        <file>C:/Users/Hp/Downloads/cut.png</file>
+        <file>C:/Users/Hp/Downloads/printer_text.png</file>
+        <file>C:/Users/Hp/Downloads/filesave.png</file>
+        <file>C:/Users/Hp/Downloads/notepad.png</file>
+    </qresource>
+</RCC>
